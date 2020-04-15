@@ -5,9 +5,10 @@ public class Exercise2_1 {
 	public static void main(String[] args) {
 		int x = 5;
 		int y = 10;
-// 修正箇所
+// 修正 start
 //		String ans = "x+yは" + x + y;
 		String ans = "x+yは" + (x + y);
+// 修正 end
 		System.out.println(ans);
 	}
 }
