@@ -1,8 +1,8 @@
 
 public class Exercise1_2 {
-
+	// 練習問題1-2
+	// 問題文に沿って記述
 	public static void main(String[] args) {
-		// 練習問題1-2
 		int a = 3;
 		int b = 5;
 		int c = a * b;
